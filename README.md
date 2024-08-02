@@ -8,7 +8,7 @@ This started as a simple idea for me to get back in touch with python, it's not 
 2. Get the latest version from the [releases](https://github.com/codeynoor/discord-invisible-ping/releases/tag/v1.0.0) page.
 
 # ❓ How to use
-Just run it.
+Just run it
 
 
 © codeynoor 🗣️
