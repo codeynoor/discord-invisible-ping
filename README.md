@@ -1,7 +1,7 @@
 # 🕵️ Discord invisible ping
 
 Sends a message to discord containing an invisible or hidden ping. 🕵️
-\nThis started as a simple idea for me to get back in touch with python, it's not the best, but it's usable. 
+This started as a simple idea for me to get back in touch with python, it's not the best, but it's usable. 
 
 # ⚙️ Installation
 1. Make sure you have the required modules installed.
@@ -10,4 +10,5 @@ Sends a message to discord containing an invisible or hidden ping. 🕵️
 # ❓ How to use
 Just run it.
 
-* © codeynoor 🗣️
+
+© codeynoor 🗣️
