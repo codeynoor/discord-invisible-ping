@@ -5,7 +5,7 @@ This started as a simple idea for me to get back in touch with python, it's not 
 
 # 💡 In action
 
-[In action](https://github.com/codeynoor/discord-invisible-ping/blob/main/in-action.gif)
+![In action](https://github.com/codeynoor/discord-invisible-ping/blob/main/in-action.gif)
 
 # ⚙️ Installation
 1. Make sure you have the required modules installed.
